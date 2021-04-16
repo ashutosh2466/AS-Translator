@@ -1,0 +1,31 @@
+.trans{
+    background-color: rgb(24, 122, 151);
+    text-align: center;
+    margin: o;
+    padding: 2rem;
+
+}
+.AS{
+    color:honeydew;
+    font-size: xx-large;
+    margin: 33px;
+    padding: 33px;
+}
+#btn-translate {
+    background-color: rgb(7, 129, 243);
+    font-size: 24px;
+    border-radius: 20%;
+    color: honeydew;
+    border: none;
+    align-items: center;
+    justify-items: center;
+}
+#output {
+    border: solid black;
+     height: 10vh;
+    
+    width: 88%;
+    margin: 1rem;
+    padding: 1rem;
+
+}
